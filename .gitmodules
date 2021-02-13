@@ -1,0 +1,3 @@
+[submodule "Drivers/CanClass"]
+	path = Drivers/CanClass
+	url = https://github.com/ryunika/CanClass.git
