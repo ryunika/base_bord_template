@@ -1,8 +1,8 @@
-# CanClass_example
+# base_bord_template
 
 ## Install
 ```
-git clone git@github.com:ryugirou/CanClass_example.git --recursive
+git clone git@github.com:ryunika/base_bord_template.git --recursive
 ```
 ## Description
 STM32F103CBT6用
@@ -11,5 +11,4 @@ https://github.com/ryugirou/CanClass をsubmoduleとして使う場合のテン�
 ## Usage
 CubeIDEで開けば使える
 動かないときは
-../Drivers/CanClassをC++のinclude pathに追加
-C++にコンバート
+Drivers/CanClassをC++のinclude pathに追加
